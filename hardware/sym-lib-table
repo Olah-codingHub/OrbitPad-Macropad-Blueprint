@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPL Library")(type "KiCad")(uri "/home/cryptian/Documents/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "OLED_DIsplay_128x32")(type "KiCad")(uri "/home/cryptian/Documents/SSD13056_OLED-0.91-128x32/SSD1306_OLED-0.91-128x32.kicad_sym")(options "")(descr ""))
+)
