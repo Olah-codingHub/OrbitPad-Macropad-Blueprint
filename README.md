@@ -7,7 +7,7 @@ OrbitPad is a personal electronics project focused on designing and developing a
 The project uses a Seeed XIAO RP2040 microcontroller, 16 mechanical switches and 16 addressable RGB LEDs.
 
 <!-- Main project image -->
-![OrbitPad](Images/orbitpad-hero.png)
+![OrbitPad](images/OrbitPad's CAD V2 (Assembly).png)
 
 ## Features
 
