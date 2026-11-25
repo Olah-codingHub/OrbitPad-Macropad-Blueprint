@@ -34,24 +34,33 @@ The project uses a Seeed XIAO RP2040 microcontroller, 16 mechanical switches and
 The PCB was designed using KiCad, with consideration for component placement, GPIO availability and circuit routing.
 
 #### Schematics
+
 ![PCB Schematic](<images/PCBSchematic.png>)
 
 The Microcontroler
+
 ![PCB Schematic](<images/PCB1.png>)
 
 the LED
+
 ![PCB LED Schematic](<images/PCB2.png>)
 
 The switch matrix
+
 ![PCB Switch Matrix Schematic](<images/PCB3.png>)
 
 Connection for the OLED Screen
+
 ![PCB Oled Schematic](<images/PCB4.png>)
 
 #### Circit Board routing
+
 Front
+
 ![PCB Front](<images/PCB_Front.png>)
+
 Back
+
 ![PCB Back](<images/PCB_Back.png>)
 
 
